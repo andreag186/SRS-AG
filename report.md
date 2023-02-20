@@ -135,8 +135,7 @@ Although time-consuming, presenting comprehensive details and provenance trackin
 By creating a user-friendly descriptive Jupyter notebook, we have made the pipeline more accessible, overcoming the limitations of the original repository. However, additional work is necessary to establish the reproducibility of the broader pipeline with a range of users and input data types.
 
 ## Figures
-
-![](RackMultipart20230220-1-kopjg7_html_c21b455e8ce40a3d.png)
+[Analysis Makefile Input-Output Figure.pdf](https://github.com/andreag186/SRS-AG/files/10788113/Analysis.Makefile.Input-Output.Figure.pdf)
 
 **Figure 1. Input Files and Output Files associated with the Analysis Makefile of the Original Method.** Graphical representation of the input files required and output files produced by running the command "make" as the suggested method for executing the first makefile (Analysis Makefile) in the Orr et al. (2020) pipeline. The folders depicted in coloured rectangles are either provided in the GitHub repository or produced via the makefile (as depicted with the star symbol). The files are depicted in white rectangles and linked by arrows to their respective folder and other files they depend on.
 
