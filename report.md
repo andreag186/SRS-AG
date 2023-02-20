@@ -139,41 +139,11 @@ By creating a user-friendly descriptive Jupyter notebook, we have made the pipel
 
 **Figure 1. Input Files and Output Files associated with the Analysis Makefile of the Original Method.** Graphical representation of the input files required and output files produced by running the command "make" as the suggested method for executing the first makefile (Analysis Makefile) in the Orr et al. (2020) pipeline. The folders depicted in coloured rectangles are either provided in the GitHub repository or produced via the makefile (as depicted with the star symbol). The files are depicted in white rectangles and linked by arrows to their respective folder and other files they depend on.
 
-![](RackMultipart20230220-1-kopjg7_html_932843848f692892.png)
+![Figure 2](https://user-images.githubusercontent.com/100807428/220206927-ec6db78f-5d99-4c76-b6d1-2631c97b6868.png)
 
 **Figure 2. Scripts and Third Party Tools associated with the Analysis Makefile of the Original Method.** Graphical representation of all the scripts (provided by the GitHub repository or within the package) and third-party tool packages called upon the command "make" as the suggested method for executing the first makefile (Analysis Makefile) in the Orr et al. (2020) pipeline. Black arrows indicate which variables call one another.
 
-![Shape 2](RackMultipart20230220-1-kopjg7_html_32fc62a78f152592.gif)
-
-**A**
-
- ![](RackMultipart20230220-1-kopjg7_html_f0b478ca532ab52a.png)
-
-![Shape 2](RackMultipart20230220-1-kopjg7_html_32fc62a78f152592.gif)
-
-**B**
-
- ![](RackMultipart20230220-1-kopjg7_html_cc3c82c3f4de2b5e.png)
-
-![Shape 2](RackMultipart20230220-1-kopjg7_html_32fc62a78f152592.gif)
-
-**C**
-
- ![](RackMultipart20230220-1-kopjg7_html_527af384dff8a75f.png)
-
-![Shape 2](RackMultipart20230220-1-kopjg7_html_6e969b2b62a0ae61.gif) ![Shape 2](RackMultipart20230220-1-kopjg7_html_4d3840cdd448d04b.gif)
-
-**D**
-
-**E**
-
- ![](RackMultipart20230220-1-kopjg7_html_d159c16eff979a02.png) ![](RackMultipart20230220-1-kopjg7_html_37d6e45e88eb916.png)
-
-![Shape 2](RackMultipart20230220-1-kopjg7_html_32fc62a78f152592.gif)
-
-**F**
-
- ![](RackMultipart20230220-1-kopjg7_html_db3e6832c869e8d2.png)
+[Figure 3.pdf](https://github.com/andreag186/SRS-AG/files/10788153/Figure.3.pdf)
 
 **Figure 3. Features of Jupyter Notebook Pipeline**
 
